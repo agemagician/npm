@@ -1,0 +1,23 @@
+{
+  "name": "npm-example",
+  "version": "1.0.0",
+  "description": "First json file using npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agemagician/npm.git"
+  },
+  "keywords": [
+    "npm",
+    "github"
+  ],
+  "author": "Ahmed Elnaggar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agemagician/npm/issues"
+  },
+  "homepage": "https://github.com/agemagician/npm#readme"
+}
